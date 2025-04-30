@@ -1,0 +1,6 @@
+#ifndef FIZZBUZZ_H_INCLUDED
+#define FIZZBUZZ_H_INCLUDED
+
+void FizzBuzz();
+
+#endif // FIZZBUZZ_H_INCLUDED

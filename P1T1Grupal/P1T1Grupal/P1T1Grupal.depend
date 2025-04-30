@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1745973406 source:c:\users\angel\documents\codeblocks\p1t1grupal\hola.cpp
+	<iostream>
+
+1745972735 source:c:\users\angel\documents\codeblocks\p1t1grupal\comparar.cpp
+	<iostream>
+	<cmath>
+	"utils.h"
+
+1745941452 c:\users\angel\documents\codeblocks\p1t1grupal\utils.h
+	<string>
+
+1745972413 source:c:\users\angel\documents\codeblocks\p1t1grupal\estadisticas.cpp
+	<iostream>
+	"utils.h"
+
+1745941319 source:c:\users\angel\documents\codeblocks\p1t1grupal\fizzbuzz.cpp
+	<iostream>
+	"utils.h"
+
+1745973332 source:c:\users\angel\documents\codeblocks\p1t1grupal\menu.cpp
+	<iostream>
+	"utils.h"
+	"menu.h"
+	"hola.h"
+	"sumar.h"
+	"comparar.h"
+	"estadisticas.h"
+	"fizzbuzz.h"
+
+1745941142 c:\users\angel\documents\codeblocks\p1t1grupal\comparar.h
+
+1745941508 source:c:\users\angel\documents\codeblocks\p1t1grupal\main.cpp
+	<iostream>
+	"utils.h"
+	"menu.h"
+
+1745941552 c:\users\angel\documents\codeblocks\p1t1grupal\menu.h
+
+1745973512 source:c:\users\angel\documents\codeblocks\p1t1grupal\sumar.cpp
+	<iostream>
+	"utils.h"
+
+1745941726 source:c:\users\angel\documents\codeblocks\p1t1grupal\utils.cpp
+	<iostream>
+	<limits>
+
+1745972168 c:\users\angel\documents\codeblocks\p1t1grupal\hola.h
+
+1745972254 c:\users\angel\documents\codeblocks\p1t1grupal\sumar.h
+
+1745972296 c:\users\angel\documents\codeblocks\p1t1grupal\estadisticas.h
+
+1745972212 c:\users\angel\documents\codeblocks\p1t1grupal\fizzbuzz.h
+

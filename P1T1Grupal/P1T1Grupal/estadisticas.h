@@ -1,0 +1,6 @@
+#ifndef ESTADISITICA_H_INCLUDED
+#define ESTADISITICA_H_INCLUDED
+
+void Estadisticas();
+
+#endif // ESTADISITICA_H_INCLUDED
